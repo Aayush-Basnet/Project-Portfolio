@@ -18,7 +18,7 @@
 
 Project Completion    | Dashboard
 ---------------  | ----------------- 
-[Professional Survey Insights](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/Data%20Professional%20Survery%20Dashboard.pbix)    |
+[Professional Survey Insights](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/Data%20Professional%20Survery%20Dashboard.pbix)    | [Dashboard in pdf](https://github.com/Aayush-Basnet/Power-BI/blob/main/Data%20Professional%20Survery%20Dashboard.pdf)
 [Diwali Sales Dashboard](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/E-Commerce%20Sales%20Dashboard.pbix)   | [Dashboard in pdf](https://github.com/Aayush-Basnet/Power-BI/blob/61e7f93378b85a6bd64f3fd35ced877ff00d08ce/Diwali%20Sales%20Analysis.pdf)
 [E-Commerce Sales Dashboard](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/Diwali%20Sales%20Analysis.pbix)     | [Dashboard in pdf](https://github.com/Aayush-Basnet/Power-BI/blob/main/E-Commerce%20Sales%20Dashboard.pdf)
 [HR Attrition Insights](https://github.com/Aayush-Basnet/Power-BI/blob/main/Power%20BI%20Project/HR%20Analytic%20Dashboard.pbix)      | [Dashboard in pdf](https://github.com/Aayush-Basnet/Power-BI/blob/main/HR%20Analytic%20Dashboard.pdf)
