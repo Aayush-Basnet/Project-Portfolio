@@ -9,6 +9,7 @@
 | [Nashville Housing Data Cleaning](https://github.com/Aayush-Basnet/SQL/blob/main/SQL%20Project/Nashville%20Housing%20Data%20Cleaning.sql)   |
 | [SQL Murder Mystery Game](https://github.com/Aayush-Basnet/SQL/blob/main/SQL%20Project/SQL-Murder-Mystery.sql)  |
 | [Company Layoffs](https://github.com/Aayush-Basnet/SQL/blob/main/SQL%20Data%20Cleaning.sql)   |
+| [Adidas Sales Analysis](https://github.com/Aayush-Basnet/SQL/blob/main/SQL%20Project/Adidas%20Sales%20Analysis.sql)|
 
 
 ----------------------------------------------------------------------------------------------------------
